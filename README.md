@@ -24,7 +24,7 @@ iGPU Intel UHD Graphics 630
 
 
 备注：
-抄作业https://github.com/AutismSuperman/AutismSuperman的efi略做修改而成，在此感谢！！！
+抄作业AutismSuperman的efi略做修改而成，在此感谢！！！
 
 CPU支持
  支持所有10代核显为UHD630的CPU
