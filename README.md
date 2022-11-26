@@ -19,9 +19,8 @@ iGPU Intel UHD Graphics 630
 
 网卡	板载AX200 
 
-
-
-
+//
+//
 
 备注：
 抄作业AutismSuperman的efi略做修改而成，在此感谢！！！
