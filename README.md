@@ -1,5 +1,6 @@
 # Hackintosh-OpenCore-0.8.6-msi-b460m-mortar-wifi
 配置
+
 如果使用该EFI,切记请更换三码！！！
 
 macOS Ventura 13.0.1 + OpenCore 0.8.6
@@ -23,6 +24,8 @@ iGPU Intel UHD Graphics 630
 
 
 备注：
+抄作业https://github.com/AutismSuperman/AutismSuperman的efi略做修改而成，在此感谢！！！
+
 CPU支持
  支持所有10代核显为UHD630的CPU
  无核显带F的10代CPU，有免驱独显也可以（但无法使用核显加速）
