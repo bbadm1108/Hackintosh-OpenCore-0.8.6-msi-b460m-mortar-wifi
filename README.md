@@ -25,8 +25,8 @@ iGPU Intel UHD Graphics 630
 备注：
 抄作业AutismSuperman的efi略做修改而成，在此感谢！！！ 
 
+CPU支持
 
-CPU支持 
  支持所有10代核显为UHD630的CPU 
  无核显带F的10代CPU，有免驱独显也可以（但无法使用核显加速）
 
@@ -35,3 +35,6 @@ BIOS设置
 1、打开设置中D.T.M 
 
 2、关闭安全启动 Secure Boot
+
+3、第一显卡从PGD变成IGD（否则因有独显，启动会卡住）
+
